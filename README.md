@@ -32,3 +32,6 @@ If you do publish a paper where this dataset helped your research, we encourage 
 1. Please use the following email addresses if you have questions or want to contribute to this project:
 	- :email: <seyed.Hamidreza@ua.pt> 
 	- :email: <kasaei.hamidreza@gmail.com> 
+
+## ACKNOWLEDGMENT
+We would like to thank Mr. Ehsan Shahri, who played an active role in collecting photos for this dataset.
