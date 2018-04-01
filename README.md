@@ -1,4 +1,4 @@
-# Iranian car plate dataset (IRCP dataset)
+# Iranian car plate dataset (IRCP_dataset)
 ###### Hamidreza Kasaei, Mohammadreza Kasaei
 ##
 This dataset contains 220 images of several cars from different perspectives. The photos are taken under various illumination conditions and distance. We would like to thank Mr. Ehsan Shahri, who played an active role in collecting photos for this dataset.
