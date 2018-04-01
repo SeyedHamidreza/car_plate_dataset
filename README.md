@@ -25,3 +25,8 @@ If you do publish a paper where this dataset helped your research, we encourage 
 		  organization={IEEE}}
 	
 
+## CONTACT INFORMATION 
+
+1. Please use the following email addresses if you have questions or want to contribute to this project:
+	- :email: <seyed.Hamidreza@ua.pt> 
+	- :email: <kasaei.hamidreza@gmail.com> 
