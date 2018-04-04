@@ -5,7 +5,7 @@ This dataset contains 220 images of several cars from different perspectives. Th
 
 ## CITING
 This dataset has been presented in the following papers.
-Please adequately refer to the papers any time this code is being used. 
+Please adequately refer to the papers any time this dataset is being used. 
 If you do publish a paper where this dataset helped your research, we encourage you to cite the following papers in your publications.
 
 	@article{Kasaei2009,
